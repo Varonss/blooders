@@ -1,0 +1,30 @@
+{
+  "name": "blooders",
+  "version": "1.0.0",
+  "description": "Front-end challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Varonss/blooders.git"
+  },
+  "keywords": [
+    "JS",
+    "Front-End",
+    "Reactjs",
+    "webpack",
+    "node"
+  ],
+  "author": "Ricardo Varona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varonss/blooders/issues"
+  },
+  "homepage": "https://github.com/Varonss/blooders#readme",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
